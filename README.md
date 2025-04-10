@@ -1,8 +1,8 @@
-Name:- Ker Mohit Dhanabha
+Name:-  Suthar kreena pankajbhai
 
-Enrollment No:- 2302031030167
+Enrollment No:- 2302031000157
 
-Roll.no:-82
+Roll.no:-81
 
 Sub:- Web-Technology-With-UI-UX
 
@@ -12,4 +12,4 @@ Division:-B3
 
 Course:- B.tech(I.T.)
 
-Collage:- Aditya Silver Oak Collage of Techonology {Silver Oak University}# Kreena-WT-repository
+Collage:- Aditya Silver Oak Collage of Techonology {Silver Oak University}
